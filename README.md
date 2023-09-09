@@ -16,6 +16,9 @@ Bloc 패턴 ( Business Logic Component / data Stream for UI ) 사용
 
 클린 아키텍쳐 사용
 
+![image](https://github.com/k98co007/flutter_mapApp_demo/assets/52064311/e35a0ac6-95b7-405c-b3f7-928ad128115e)
+
+
 2일만에 배워서 하루만에 만들려고 했는데, 플러터 네이버 맵 플러그인 에서 시간 까먹고 ( 정식 지원이 아니라서 완전 비추 )
 네이버 맛집 OpenAPI에서 또 시간 까먹고 ( 위치 기반으로 지역 검색이 안되는건 또 뭐야, 네이버 왜 이래 ?  )
 주중에 바쁘다 보니 또 시간이 지나서, 결국 1주일 걸렸다 -_-;;; 
